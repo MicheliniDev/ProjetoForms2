@@ -1,0 +1,11 @@
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe.config
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.exe
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\bin\Debug\ProjetoForms2.pdb
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Form2.resources
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Properties.Resources.resources
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.exe
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.pdb
+C:\Users\2jd\Documents\Igor Michelini e Felipe 2A JD\ProjetoForms2\ProjetoForms2\obj\Debug\ProjetoForms2.Form1.resources
